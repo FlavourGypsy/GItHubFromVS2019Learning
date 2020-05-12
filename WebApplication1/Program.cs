@@ -13,6 +13,7 @@ namespace WebApplication1
     {
         public static void Main(string[] args)
         {
+            //Edited from GitHub Browser
             CreateHostBuilder(args).Build().Run();
         }
 

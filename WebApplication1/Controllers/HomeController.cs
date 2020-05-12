@@ -20,8 +20,8 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Content = "Hello World in COVID19";
-            return View();
+            ViewBag.Contenta = "Hello COVID19";
+            return View("");
         }
 
         public IActionResult Privacy()

@@ -16,6 +16,7 @@ namespace WebApplication1
             //Edited from GitHub Browser
             //Edited from the local : master branch
             CreateHostBuilder(args).Build().Run();
+            //This is added as a part of feature 1 from local machine
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

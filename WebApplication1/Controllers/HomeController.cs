@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Content1 = "Hello World in COVID19 - another hello";
+            ViewBag.Continental = "Hello World in COVID19 - another hello";
             return View(null);
         }
 

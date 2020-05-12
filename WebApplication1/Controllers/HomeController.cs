@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Content = "Hello World";
+            ViewBag.Content = "Hello Hello";
             return View();
         }
 
